@@ -3,16 +3,21 @@ This is a PyTorch implementation of MURAT in the following paper (code is being 
 Yaguang Li, Kun Fu, Zheng Wang, Cyrus Shahabi, Jieping Ye and Yan Liu, [Multi-task Representation Learning for Travel Time Estimation](http://infolab.usc.edu/DocsDemos/kdd_2018_deep_eta.pdf), KDD 2018.
 
 
-![Origin-Destination Travel Time Estimation](figures/od_eta.png "OD-ETA")
+
+<img src="figures/od_eta.png" alt="Origin-Destination Travel Time Estimation" width="500px" />
 
 Given an origin, a destination and a departure time, the model want to estimate the time of arrival.
 
 ## Model Architecture
-![Multi-task Representation Learning for Travel Time Estimation](figures/murat.png "Model Architecture")
+<img src="figures/murat.png" alt="Multi-task Representation Learning for Travel Time Estimation" width="500px" />
 
 
 ## Poster
-![Multi-task Representation Learning for Travel Time Estimation - Poster](figures/kdd_2018_deep_eta_poster.jpg "Poster")
+
+
+<a href="http://www-scf.usc.edu/~yaguang/papers/kdd_2018_deep_eta_poster.pdf" class="clearfix">
+  <img src="figures/kdd_2018_deep_eta_poster.jpg" style="height: auto; width:400px;">
+</a>
 
 ## Requirements
 - scipy>=0.19.0
