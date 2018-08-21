@@ -2,8 +2,6 @@
 This is a PyTorch implementation of MURAT in the following paper (code is being added ...): \
 Yaguang Li, Kun Fu, Zheng Wang, Cyrus Shahabi, Jieping Ye and Yan Liu, [Multi-task Representation Learning for Travel Time Estimation](http://infolab.usc.edu/DocsDemos/kdd_2018_deep_eta.pdf), KDD 2018.
 
-
-
 <img src="figures/od_eta.png" alt="Origin-Destination Travel Time Estimation" width="500px" />
 
 Given an origin, a destination and a departure time, the model want to estimate the time of arrival.
@@ -12,7 +10,7 @@ Given an origin, a destination and a departure time, the model want to estimate 
 <img src="figures/murat.png" alt="Multi-task Representation Learning for Travel Time Estimation" width="500px" />
 
 
-## Poster
+## Poster (Click to see the PDF)
 
 
 <a href="http://www-scf.usc.edu/~yaguang/papers/kdd_2018_deep_eta_poster.pdf" class="clearfix">
@@ -26,8 +24,8 @@ Given an origin, a destination and a departure time, the model want to estimate 
 - pytorch>=0.3.0
 - pyaml
 
-
 Dependency can be installed using the following command:
+
 ```bash
 pip install -r requirements.txt
 ```
