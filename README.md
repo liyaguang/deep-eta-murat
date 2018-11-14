@@ -32,9 +32,6 @@ pip install -r requirements.txt
 
 
 
-## Train the Model
-```bash
-```
 
 More details are being added ...
 
@@ -43,7 +40,7 @@ More details are being added ...
 If you find this repository useful in your research, please cite the following paper:
 ```
 @inproceedings{li2018kdd_deep_eta,
-  title={Multi-task Representation Learning for Travel Time Estimation}
+  title={Multi-task Representation Learning for Travel Time Estimation},
   author={Li, Yaguang and Fu, Kun and Wang, Zheng and Shahabi, Cyrus and Ye, Jieping and Liu, Yan},
   booktitle={International Conference on Knowledge Discovery and Data Mining (KDD '18)},
   year={2018}
